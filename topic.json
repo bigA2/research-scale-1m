@@ -1,0 +1,15 @@
+{
+ "topic": "Scaling a SaaS to 1 million users",
+ "question": "How to architect a workflow-automation SaaS on Cloudflare (Pages/Workers/Queues/Durable Objects), Supabase Postgres and a self-hosted workflow engine to handle 1 million users: queues, rate limits, connection pooling, horizontal workers, caching, multi-tenant isolation, cost control, load testing?",
+ "queries": [
+  "cloudflare workers queue",
+  "supabase scaling",
+  "load testing open source",
+  "multi tenant saas architecture"
+ ],
+ "urls": [
+  "https://developers.cloudflare.com/queues/",
+  "https://developers.cloudflare.com/durable-objects/",
+  "https://supabase.com/docs/guides/database/connecting-to-postgres"
+ ]
+}
