@@ -10,13 +10,13 @@ Sources read: 15 (public only). Model: openai/gpt-4o-mini via GitHub Models free
 
 ## Notes per source
 
-### https://github.com/elliothux/open-compute (Apache-2.0, 3038★)
+### https://github.com/elliothux/open-compute (Apache-2.0, 3055★)
 (model unavailable)
 
 ### https://github.com/qianshuixia/shrimpreel (MIT, 384★)
 (model unavailable)
 
-### https://github.com/mibgb65-cloud/OmniMail (MIT, 274★)
+### https://github.com/mibgb65-cloud/OmniMail (MIT, 273★)
 (model unavailable)
 
 ### https://github.com/mirza-rizvi/ResolveHQ (NOASSERTION, 210★)
