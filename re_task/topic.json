@@ -1,0 +1,13 @@
+{
+ "topic": "Per-tier SaaS dashboard + billing best practice",
+ "question": "From open-source SaaS starters and docs (Supabase, Stripe/Lemon Squeezy billing portals, usage metering, plan gating, per-plan feature flags): how to build tier-specific dashboards (Starter/Pro/Team/Scale), usage meters, upgrade prompts, billing page, invoices, seat management, template counts per plan.",
+ "queries": [
+  "saas starter billing usage",
+  "plan feature flags",
+  "usage based billing open source"
+ ],
+ "urls": [
+  "https://docs.lemonsqueezy.com/help/online-store/customer-portal",
+  "https://supabase.com/docs/guides/database/postgres/row-level-security"
+ ]
+}
